@@ -98,19 +98,19 @@
     "url": "https://servproject.i3m.upv.es/ec3-synergy/",
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
-    "status": "down",
-    "uptime": "40.71%",
-    "uptimeDay": "40.71%",
-    "uptimeWeek": "40.71%",
-    "uptimeMonth": "40.71%",
-    "uptimeYear": "40.71%",
-    "time": 4835,
-    "timeDay": 4835,
-    "timeWeek": 4835,
-    "timeMonth": 4835,
-    "timeYear": 4835,
+    "status": "up",
+    "uptime": "38.79%",
+    "uptimeDay": "38.79%",
+    "uptimeWeek": "38.79%",
+    "uptimeMonth": "38.79%",
+    "uptimeYear": "38.79%",
+    "time": 4720,
+    "timeDay": 4720,
+    "timeWeek": 4720,
+    "timeMonth": 4720,
+    "timeYear": 4720,
     "dailyMinutesDown": {
-      "2021-01-26": 288
+      "2021-01-26": 313
     }
   },
   {
