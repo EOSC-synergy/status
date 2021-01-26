@@ -26,8 +26,6 @@ sites:
   - name: EC3 portal for EOSC-Synergy
     url: https://servproject.i3m.upv.es/ec3-synergy/
     icon: https://servproject.i3m.upv.es/ec3/img/ec3-small.png
-    expectedStatusCodes:
-      - 403
   - name: IM - Infrastructure Manager
     url: https://appsgrycap.i3m.upv.es:31443/im-dashboard/login
     icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
