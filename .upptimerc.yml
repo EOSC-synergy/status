@@ -32,9 +32,9 @@ sites:
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  # cname: status.eosc-synergy.eu
+  cname: status.eosc-synergy.eu
   # Uncomment the following line if you don't have a custom domain and add your repo name
-  baseUrl: /status
+  # baseUrl: /status
   logoUrl: https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png
   name: EOSC Synergy service status
   introTitle: EOSC Synergy service status
