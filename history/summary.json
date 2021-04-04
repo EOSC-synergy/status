@@ -112,7 +112,7 @@
     "url": "https://servproject.i3m.upv.es/ec3-synergy/",
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
-    "status": "up",
+    "status": "down",
     "uptime": "99.33%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
