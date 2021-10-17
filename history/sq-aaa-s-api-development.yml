@@ -1,7 +1,7 @@
 url: https://api-dev.sqaaas.eosc-synergy.eu/pipeline
-status: up
-code: 200
-responseTime: 774
-lastUpdated: 2021-10-17T12:10:58.686Z
+status: down
+code: 503
+responseTime: 588
+lastUpdated: 2021-10-17T12:44:48.781Z
 startTime: Mon Jan 11 2021 15:38:21 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
