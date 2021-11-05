@@ -29,6 +29,9 @@ sites:
   - name: IM - Infrastructure Manager
     url: https://appsgrycap.i3m.upv.es:31443/im-dashboard/login
     icon: https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png
+  - name: SWIFT Openstack - INCD
+    url: https://stratus-stor.ncg.ingrid.pt:8080/
+    icon: https://www.openstack.org/themes/openstack/images/project-mascots/Swift/OpenStack_Project_Swift_vertical.jpg
   
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
