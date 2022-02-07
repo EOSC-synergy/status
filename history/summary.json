@@ -128,7 +128,7 @@
     "timeMonth": 522,
     "timeYear": 483,
     "dailyMinutesDown": {
-      "2022-02-07": 225,
+      "2022-02-07": 234,
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
@@ -280,12 +280,12 @@
     "url": "https://servproject.i3m.upv.es/ec3-synergy/",
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
-    "status": "up",
+    "status": "down",
     "uptime": "96.90%",
-    "uptimeDay": "91.85%",
-    "uptimeWeek": "98.34%",
+    "uptimeDay": "91.84%",
+    "uptimeWeek": "98.33%",
     "uptimeMonth": "98.55%",
-    "uptimeYear": "96.80%",
+    "uptimeYear": "96.81%",
     "time": 5692,
     "timeDay": 4730,
     "timeWeek": 4858,
@@ -360,8 +360,7 @@
       "2021-03-11": 27,
       "2021-03-09": 42,
       "2021-03-08": 60,
-      "2021-03-06": 27,
-      "2021-02-19": 22
+      "2021-03-06": 27
     }
   },
   {
