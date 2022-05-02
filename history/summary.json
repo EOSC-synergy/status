@@ -278,11 +278,11 @@
     "url": "https://servproject.i3m.upv.es/ec3-synergy/",
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
-    "status": "up",
-    "uptime": "97.46%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "99.82%",
+    "status": "down",
+    "uptime": "97.47%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.81%",
     "uptimeYear": "96.80%",
     "time": 5513,
     "timeDay": 4024,
@@ -290,6 +290,7 @@
     "timeMonth": 4793,
     "timeYear": 5650,
     "dailyMinutesDown": {
+      "2022-05-02": 1,
       "2022-04-20": 26,
       "2022-04-13": 16,
       "2022-04-10": 19,
@@ -359,8 +360,7 @@
       "2021-07-03": 66,
       "2021-07-02": 53,
       "2021-06-27": 27,
-      "2021-06-24": 49,
-      "2021-06-23": 12
+      "2021-06-24": 49
     }
   },
   {
@@ -370,9 +370,9 @@
     "slug": "im-infrastructure-manager",
     "status": "down",
     "uptime": "98.60%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.19%",
+    "uptimeWeek": "99.88%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "98.23%",
     "time": 709,
     "timeDay": 390,
@@ -380,7 +380,7 @@
     "timeMonth": 610,
     "timeYear": 736,
     "dailyMinutesDown": {
-      "2022-05-02": 0,
+      "2022-05-02": 12,
       "2022-03-29": 19,
       "2022-03-11": 36,
       "2022-01-26": 21,
