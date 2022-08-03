@@ -19,6 +19,8 @@ sites:
   - name: Jenkins
     url: https://jenkins.eosc-synergy.eu/
     icon: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU
+    expectedStatusCodes:
+    - 403
   - name: EC3 portal for EOSC-Synergy
     url: https://servproject.i3m.upv.es/ec3-synergy/
     icon: https://servproject.i3m.upv.es/ec3/img/ec3-small.png
