@@ -4,19 +4,19 @@
     "url": "https://sqaaas.eosc-synergy.eu/",
     "icon": "https://www.eosc-synergy.eu/wp-content/uploads/EOSC-Synergy-Logo-mini-png.png",
     "slug": "sq-aaa-s-web",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "97.01%",
-    "uptimeWeek": "99.57%",
-    "uptimeMonth": "99.90%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "96.03%",
+    "uptimeWeek": "99.43%",
+    "uptimeMonth": "99.87%",
     "uptimeYear": "99.99%",
     "time": 206,
-    "timeDay": 162,
-    "timeWeek": 345,
+    "timeDay": 192,
+    "timeWeek": 334,
     "timeMonth": 239,
-    "timeYear": 209,
+    "timeYear": 210,
     "dailyMinutesDown": {
-      "2022-09-15": 43
+      "2022-09-15": 57
     }
   },
   {
