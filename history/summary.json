@@ -7,13 +7,13 @@
     "status": "up",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "99.39%",
+    "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.98%",
     "time": 211,
-    "timeDay": 221,
-    "timeWeek": 202,
-    "timeMonth": 291,
+    "timeDay": 134,
+    "timeWeek": 206,
+    "timeMonth": 284,
     "timeYear": 213,
     "dailyMinutesDown": {
       "2023-01-25": 61,
@@ -26,16 +26,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-production",
     "status": "up",
-    "uptime": "92.86%",
+    "uptime": "92.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.94%",
     "uptimeYear": "88.88%",
-    "time": 1356,
-    "timeDay": 1515,
-    "timeWeek": 1448,
-    "timeMonth": 1376,
-    "timeYear": 1129,
+    "time": 1357,
+    "timeDay": 1163,
+    "timeWeek": 1402,
+    "timeMonth": 1374,
+    "timeYear": 1130,
     "dailyMinutesDown": {
       "2023-01-16": 25,
       "2022-11-29": 54,
@@ -90,8 +90,7 @@
       "2022-03-30": 26,
       "2022-03-24": 82,
       "2022-02-16": 20,
-      "2022-02-11": 51,
-      "2022-02-02": 60
+      "2022-02-11": 51
     }
   },
   {
@@ -100,16 +99,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-staging",
     "status": "up",
-    "uptime": "92.01%",
+    "uptime": "92.03%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.38%",
-    "time": 818,
-    "timeDay": 1220,
-    "timeWeek": 1164,
-    "timeMonth": 1164,
-    "timeYear": 839,
+    "time": 819,
+    "timeDay": 1096,
+    "timeWeek": 1139,
+    "timeMonth": 1166,
+    "timeYear": 841,
     "dailyMinutesDown": {
       "2022-10-31": 55,
       "2022-10-18": 30,
@@ -165,8 +164,7 @@
       "2022-06-22": 1440,
       "2022-06-21": 810,
       "2022-03-24": 82,
-      "2022-02-11": 50,
-      "2022-02-02": 35
+      "2022-02-11": 50
     }
   },
   {
@@ -175,15 +173,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-development",
     "status": "up",
-    "uptime": "84.24%",
+    "uptime": "84.26%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "97.05%",
-    "time": 495,
-    "timeDay": 544,
-    "timeWeek": 514,
-    "timeMonth": 482,
+    "uptimeYear": "97.32%",
+    "time": 494,
+    "timeDay": 460,
+    "timeWeek": 487,
+    "timeMonth": 486,
     "timeYear": 492,
     "dailyMinutesDown": {
       "2022-10-31": 55,
@@ -197,8 +195,7 @@
       "2022-02-06": 1440,
       "2022-02-05": 1440,
       "2022-02-04": 1440,
-      "2022-02-03": 1440,
-      "2022-02-02": 1440
+      "2022-02-03": 1440
     }
   },
   {
@@ -207,16 +204,16 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "87.46%",
+    "uptime": "87.48%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "74.53%",
-    "time": 679,
-    "timeDay": 706,
-    "timeWeek": 632,
-    "timeMonth": 600,
-    "timeYear": 648,
+    "time": 678,
+    "timeDay": 600,
+    "timeWeek": 635,
+    "timeMonth": 604,
+    "timeYear": 647,
     "dailyMinutesDown": {
       "2022-11-22": 687,
       "2022-11-21": 1440,
@@ -316,8 +313,7 @@
       "2022-05-08": 1440,
       "2022-05-07": 1440,
       "2022-05-06": 618,
-      "2022-05-03": 141,
-      "2022-02-02": 34
+      "2022-05-03": 141
     }
   },
   {
@@ -326,18 +322,19 @@
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
     "status": "down",
-    "uptime": "81.06%",
+    "uptime": "80.95%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "63.40%",
-    "time": 3753,
-    "timeDay": 506,
-    "timeWeek": 484,
-    "timeMonth": 478,
-    "timeYear": 3489,
+    "uptimeYear": "63.13%",
+    "time": 3745,
+    "timeDay": 583,
+    "timeWeek": 490,
+    "timeMonth": 483,
+    "timeYear": 3469,
     "dailyMinutesDown": {
-      "2023-02-01": 74,
+      "2023-02-02": 63,
+      "2023-02-01": 1440,
       "2023-01-31": 1440,
       "2023-01-30": 1440,
       "2023-01-29": 1440,
@@ -524,10 +521,10 @@
     "uptimeMonth": "99.95%",
     "uptimeYear": "98.74%",
     "time": 735,
-    "timeDay": 670,
-    "timeWeek": 637,
-    "timeMonth": 625,
-    "timeYear": 698,
+    "timeDay": 702,
+    "timeWeek": 634,
+    "timeMonth": 632,
+    "timeYear": 697,
     "dailyMinutesDown": {
       "2023-01-13": 21,
       "2022-12-22": 50,
@@ -565,12 +562,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
     "time": 773,
-    "timeDay": 862,
-    "timeWeek": 775,
-    "timeMonth": 742,
+    "timeDay": 787,
+    "timeWeek": 751,
+    "timeMonth": 747,
     "timeYear": 774,
-    "dailyMinutesDown": {
-      "2022-02-02": 33
-    }
+    "dailyMinutesDown": {}
   }
 ]
