@@ -1,7 +1,7 @@
 url: https://appsgrycap.i3m.upv.es:31443/im-dashboard/login
-status: down
-code: 502
-responseTime: 21777
-lastUpdated: 2023-02-16T19:42:46.544Z
+status: up
+code: 200
+responseTime: 498
+lastUpdated: 2023-02-16T19:53:17.274Z
 startTime: Tue Jan 26 2021 12:54:17 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
