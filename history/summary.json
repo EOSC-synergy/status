@@ -174,7 +174,7 @@
     "uptime": "82.17%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "79.95%",
+    "uptimeMonth": "79.97%",
     "uptimeYear": "92.65%",
     "time": 494,
     "timeDay": 379,
@@ -349,7 +349,7 @@
     "timeMonth": 503,
     "timeYear": 2772,
     "dailyMinutesDown": {
-      "2023-04-04": 883,
+      "2023-04-04": 893,
       "2023-04-03": 1440,
       "2023-04-02": 1440,
       "2023-04-01": 1440,
@@ -623,19 +623,19 @@
     "url": "https://stratus-stor.ncg.ingrid.pt:8080/",
     "icon": "https://www.openstack.org/themes/openstack/images/project-mascots/Swift/OpenStack_Project_Swift_vertical.jpg",
     "slug": "swift-openstack-incd",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "99.30%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
-    "time": 772,
-    "timeDay": 542,
-    "timeWeek": 712,
-    "timeMonth": 726,
-    "timeYear": 773,
+    "time": 773,
+    "timeDay": 735,
+    "timeWeek": 736,
+    "timeMonth": 732,
+    "timeYear": 774,
     "dailyMinutesDown": {
-      "2023-04-04": 0
+      "2023-04-04": 10
     }
   }
 ]
