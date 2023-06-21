@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 210,
-    "timeDay": 149,
+    "timeDay": 92,
     "timeWeek": 172,
-    "timeMonth": 199,
-    "timeYear": 208,
+    "timeMonth": 196,
+    "timeYear": 207,
     "dailyMinutesDown": {
       "2023-01-25": 61,
       "2022-09-15": 43
@@ -32,9 +32,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "88.88%",
     "time": 1208,
-    "timeDay": 1388,
-    "timeWeek": 1372,
-    "timeMonth": 1472,
+    "timeDay": 1226,
+    "timeWeek": 1379,
+    "timeMonth": 1470,
     "timeYear": 1349,
     "dailyMinutesDown": {
       "2023-05-15": 49,
@@ -99,16 +99,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-staging",
     "status": "up",
-    "uptime": "93.26%",
+    "uptime": "93.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "87.40%",
-    "time": 950,
-    "timeDay": 1098,
-    "timeWeek": 1079,
-    "timeMonth": 1145,
-    "timeYear": 1078,
+    "time": 951,
+    "timeDay": 1081,
+    "timeWeek": 1082,
+    "timeMonth": 1143,
+    "timeYear": 1079,
     "dailyMinutesDown": {
       "2023-03-07": 23,
       "2022-10-31": 55,
@@ -162,8 +162,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 810
+      "2022-06-22": 1440
     }
   },
   {
@@ -172,16 +171,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-development",
     "status": "up",
-    "uptime": "83.71%",
+    "uptime": "83.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.65%",
     "time": 499,
-    "timeDay": 545,
-    "timeWeek": 557,
-    "timeMonth": 544,
-    "timeYear": 501,
+    "timeDay": 402,
+    "timeWeek": 558,
+    "timeMonth": 542,
+    "timeYear": 500,
     "dailyMinutesDown": {
       "2023-03-10": 1026,
       "2023-03-09": 1440,
@@ -221,15 +220,15 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "89.42%",
+    "uptime": "89.43%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "86.74%",
+    "uptimeYear": "87.02%",
     "time": 636,
-    "timeDay": 631,
-    "timeWeek": 587,
-    "timeMonth": 618,
+    "timeDay": 693,
+    "timeWeek": 594,
+    "timeMonth": 621,
     "timeYear": 613,
     "dailyMinutesDown": {
       "2022-11-22": 687,
@@ -282,8 +281,7 @@
       "2022-06-25": 1440,
       "2022-06-24": 1440,
       "2022-06-23": 1440,
-      "2022-06-22": 1440,
-      "2022-06-21": 1440
+      "2022-06-22": 1440
     }
   },
   {
@@ -292,18 +290,19 @@
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
     "status": "down",
-    "uptime": "68.18%",
+    "uptime": "68.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
-    "uptimeYear": "26.20%",
-    "time": 2213,
-    "timeDay": 592,
-    "timeWeek": 487,
-    "timeMonth": 617,
-    "timeYear": 1673,
+    "uptimeYear": "25.93%",
+    "time": 2209,
+    "timeDay": 375,
+    "timeWeek": 492,
+    "timeMonth": 610,
+    "timeYear": 1651,
     "dailyMinutesDown": {
-      "2023-06-20": 62,
+      "2023-06-21": 64,
+      "2023-06-20": 1440,
       "2023-06-19": 1440,
       "2023-06-18": 1440,
       "2023-06-17": 1440,
@@ -581,8 +580,7 @@
       "2022-07-17": 18,
       "2022-07-12": 20,
       "2022-07-03": 22,
-      "2022-07-01": 26,
-      "2022-06-21": 62
+      "2022-07-01": 26
     }
   },
   {
@@ -597,10 +595,10 @@
     "uptimeMonth": "99.91%",
     "uptimeYear": "98.77%",
     "time": 841,
-    "timeDay": 564,
-    "timeWeek": 541,
-    "timeMonth": 585,
-    "timeYear": 826,
+    "timeDay": 617,
+    "timeWeek": 564,
+    "timeMonth": 586,
+    "timeYear": 825,
     "dailyMinutesDown": {
       "2023-05-30": 40,
       "2023-03-22": 25,
@@ -620,8 +618,7 @@
       "2022-07-17": 18,
       "2022-07-04": 27,
       "2022-07-03": 21,
-      "2022-06-28": 28,
-      "2022-06-21": 17
+      "2022-06-28": 28
     }
   },
   {
@@ -636,10 +633,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 768,
-    "timeDay": 828,
-    "timeWeek": 713,
-    "timeMonth": 750,
-    "timeYear": 769,
+    "timeDay": 574,
+    "timeWeek": 706,
+    "timeMonth": 746,
+    "timeYear": 768,
     "dailyMinutesDown": {}
   }
 ]
