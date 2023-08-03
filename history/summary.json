@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 210,
-    "timeDay": 160,
-    "timeWeek": 295,
-    "timeMonth": 210,
-    "timeYear": 209,
+    "timeDay": 264,
+    "timeWeek": 292,
+    "timeMonth": 214,
+    "timeYear": 210,
     "dailyMinutesDown": {
       "2023-01-25": 61,
       "2022-09-15": 43
@@ -30,12 +30,12 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "99.56%",
-    "time": 1251,
-    "timeDay": 1841,
-    "timeWeek": 1604,
-    "timeMonth": 1483,
-    "timeYear": 1425,
+    "uptimeYear": "99.74%",
+    "time": 1252,
+    "timeDay": 1675,
+    "timeWeek": 1641,
+    "timeMonth": 1495,
+    "timeYear": 1427,
     "dailyMinutesDown": {
       "2023-07-18": 19,
       "2023-05-15": 49,
@@ -50,8 +50,7 @@
       "2022-10-12": 29,
       "2022-10-10": 165,
       "2022-10-03": 43,
-      "2022-09-30": 17,
-      "2022-08-03": 511
+      "2022-09-30": 17
     }
   },
   {
@@ -60,16 +59,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-staging",
     "status": "up",
-    "uptime": "93.33%",
+    "uptime": "93.34%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "92.55%",
-    "uptimeYear": "98.28%",
-    "time": 1023,
-    "timeDay": 1269,
-    "timeWeek": 1272,
-    "timeMonth": 1393,
-    "timeYear": 1139,
+    "uptimeYear": "98.46%",
+    "time": 1025,
+    "timeDay": 1257,
+    "timeWeek": 1311,
+    "timeMonth": 1400,
+    "timeYear": 1141,
     "dailyMinutesDown": {
       "2023-07-16": 1178,
       "2023-07-15": 1440,
@@ -83,8 +82,7 @@
       "2022-09-12": 466,
       "2022-09-11": 1440,
       "2022-09-10": 1440,
-      "2022-09-09": 611,
-      "2022-08-03": 511
+      "2022-09-09": 611
     }
   },
   {
@@ -93,15 +91,15 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-development",
     "status": "up",
-    "uptime": "84.46%",
+    "uptime": "84.47%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "92.67%",
     "time": 503,
-    "timeDay": 513,
-    "timeWeek": 597,
-    "timeMonth": 546,
+    "timeDay": 573,
+    "timeWeek": 615,
+    "timeMonth": 542,
     "timeYear": 509,
     "dailyMinutesDown": {
       "2023-03-10": 1026,
@@ -141,15 +139,15 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins",
     "status": "up",
-    "uptime": "89.91%",
+    "uptime": "89.92%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.62%",
-    "time": 624,
-    "timeDay": 632,
-    "timeWeek": 668,
-    "timeMonth": 656,
+    "uptimeYear": "98.80%",
+    "time": 625,
+    "timeDay": 725,
+    "timeWeek": 698,
+    "timeMonth": 662,
     "timeYear": 620,
     "dailyMinutesDown": {
       "2022-11-22": 687,
@@ -159,8 +157,7 @@
       "2022-10-31": 54,
       "2022-10-20": 19,
       "2022-10-03": 41,
-      "2022-10-02": 867,
-      "2022-08-03": 518
+      "2022-10-02": 867
     }
   },
   {
@@ -169,18 +166,19 @@
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
     "status": "down",
-    "uptime": "64.96%",
+    "uptime": "64.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "15.11%",
-    "time": 1908,
-    "timeDay": 442,
-    "timeWeek": 394,
-    "timeMonth": 469,
-    "timeYear": 1166,
+    "time": 1900,
+    "timeDay": 668,
+    "timeWeek": 485,
+    "timeMonth": 477,
+    "timeYear": 1165,
     "dailyMinutesDown": {
-      "2023-08-02": 554,
+      "2023-08-03": 59,
+      "2023-08-02": 1440,
       "2023-08-01": 1440,
       "2023-07-31": 1440,
       "2023-07-30": 1440,
@@ -491,8 +489,7 @@
       "2022-09-17": 16,
       "2022-08-12": 24,
       "2022-08-05": 427,
-      "2022-08-04": 1440,
-      "2022-08-03": 1440
+      "2022-08-04": 1440
     }
   },
   {
@@ -502,14 +499,14 @@
     "slug": "im-infrastructure-manager",
     "status": "up",
     "uptime": "98.03%",
-    "uptimeDay": "0.02%",
-    "uptimeWeek": "1.58%",
+    "uptimeDay": "65.67%",
+    "uptimeWeek": "9.38%",
     "uptimeMonth": "77.04%",
-    "uptimeYear": "97.63%",
-    "time": 828,
-    "timeDay": 551,
-    "timeWeek": 551,
-    "timeMonth": 731,
+    "uptimeYear": "97.81%",
+    "time": 829,
+    "timeDay": 681,
+    "timeWeek": 681,
+    "timeMonth": 742,
     "timeYear": 850,
     "dailyMinutesDown": {
       "2023-08-02": 553,
@@ -529,8 +526,7 @@
       "2022-11-15": 118,
       "2022-10-01": 226,
       "2022-09-30": 85,
-      "2022-08-15": 17,
-      "2022-08-03": 884
+      "2022-08-15": 17
     }
   },
   {
@@ -544,10 +540,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 769,
-    "timeDay": 744,
-    "timeWeek": 829,
-    "timeMonth": 791,
+    "time": 770,
+    "timeDay": 874,
+    "timeWeek": 845,
+    "timeMonth": 795,
     "timeYear": 755,
     "dailyMinutesDown": {}
   }
