@@ -1,7 +1,7 @@
 url: https://stratus-stor.ncg.ingrid.pt:8080/
-status: down
-code: 0
-responseTime: 0
-lastUpdated: 2023-08-13T04:58:42.858Z
+status: up
+code: 200
+responseTime: 783
+lastUpdated: 2023-08-13T05:15:50.813Z
 startTime: Fri Nov 05 2021 11:29:41 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
