@@ -6,9 +6,9 @@
     "slug": "sq-aaa-s-web",
     "status": "up",
     "uptime": "99.99%",
-    "uptimeDay": "99.28%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "99.98%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
     "time": 243,
     "timeDay": 222,
@@ -16,7 +16,6 @@
     "timeMonth": 233,
     "timeYear": 251,
     "dailyMinutesDown": {
-      "2024-01-14": 10,
       "2023-10-03": 24,
       "2023-01-25": 61
     }
@@ -28,9 +27,9 @@
     "slug": "sq-aaa-s-api-production",
     "status": "up",
     "uptime": "94.49%",
-    "uptimeDay": "99.32%",
-    "uptimeWeek": "99.90%",
-    "uptimeMonth": "98.82%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "98.84%",
     "uptimeYear": "98.09%",
     "time": 1447,
     "timeDay": 1650,
@@ -38,7 +37,6 @@
     "timeMonth": 1506,
     "timeYear": 1465,
     "dailyMinutesDown": {
-      "2024-01-14": 10,
       "2023-12-19": 506,
       "2023-11-22": 160,
       "2023-11-03": 537,
@@ -180,7 +178,8 @@
     "timeMonth": 0,
     "timeYear": 498,
     "dailyMinutesDown": {
-      "2024-01-14": 1436,
+      "2024-01-15": 56,
+      "2024-01-14": 1440,
       "2024-01-13": 1440,
       "2024-01-12": 1440,
       "2024-01-11": 1440,
@@ -543,8 +542,7 @@
       "2023-01-19": 1440,
       "2023-01-18": 1440,
       "2023-01-17": 1440,
-      "2023-01-16": 1440,
-      "2023-01-15": 1440
+      "2023-01-16": 1440
     }
   },
   {
