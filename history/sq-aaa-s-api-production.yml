@@ -1,7 +1,7 @@
 url: https://api.sqaaas.eosc-synergy.eu/v1/ui
-status: down
-code: 404
-responseTime: 1139
-lastUpdated: 2024-01-22T11:11:09.429Z
+status: up
+code: 200
+responseTime: 1875
+lastUpdated: 2024-01-22T12:30:13.520Z
 startTime: 2021-01-11T15:46:51.000Z
 generator: Upptime <https://github.com/upptime/upptime>
