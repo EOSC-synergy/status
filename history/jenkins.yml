@@ -1,7 +1,7 @@
 url: https://jenkins.eosc-synergy.eu/
-status: down
-code: 503
-responseTime: 16874
-lastUpdated: 2024-02-15T12:32:42.116Z
+status: up
+code: 403
+responseTime: 1149
+lastUpdated: 2024-02-15T12:50:53.818Z
 startTime: 2021-01-11T18:20:27.000Z
 generator: Upptime <https://github.com/upptime/upptime>
