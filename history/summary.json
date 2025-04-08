@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 290,
-    "timeWeek": 185,
-    "timeMonth": 276,
+    "timeDay": 282,
+    "timeWeek": 180,
+    "timeMonth": 278,
     "timeYear": 248,
     "dailyMinutesDown": {}
   },
@@ -28,11 +28,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
-    "time": 1849,
-    "timeDay": 2095,
-    "timeWeek": 2008,
-    "timeMonth": 2012,
-    "timeYear": 1936,
+    "time": 1850,
+    "timeDay": 2408,
+    "timeWeek": 1863,
+    "timeMonth": 2034,
+    "timeYear": 1938,
     "dailyMinutesDown": {
       "2025-03-01": 21,
       "2025-02-24": 16,
@@ -65,16 +65,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-staging",
     "status": "up",
-    "uptime": "94.14%",
+    "uptime": "94.15%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.63%",
-    "time": 1737,
-    "timeDay": 2027,
-    "timeWeek": 1633,
-    "timeMonth": 1728,
-    "timeYear": 1794,
+    "time": 1739,
+    "timeDay": 2649,
+    "timeWeek": 1645,
+    "timeMonth": 1772,
+    "timeYear": 1796,
     "dailyMinutesDown": {
       "2025-03-05": 22,
       "2025-03-02": 32,
@@ -107,16 +107,16 @@
     "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvpNArYk3fL0rZo9sh2nD7P2EHj-ul01oCOA&usqp=CAU",
     "slug": "jenkins",
     "status": "down",
-    "uptime": "93.86%",
+    "uptime": "93.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1228,
+    "time": 1230,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 1301,
+    "timeYear": 1292,
     "dailyMinutesDown": {}
   },
   {
@@ -125,7 +125,7 @@
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
     "status": "down",
-    "uptime": "38.93%",
+    "uptime": "38.90%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -136,7 +136,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-04-07": 75,
+      "2025-04-08": 73,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -499,8 +500,7 @@
       "2024-04-12": 1440,
       "2024-04-11": 1440,
       "2024-04-10": 1440,
-      "2024-04-09": 1440,
-      "2024-04-08": 1440
+      "2024-04-09": 1440
     }
   },
   {
@@ -509,7 +509,7 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-infrastructure-manager",
     "status": "down",
-    "uptime": "81.25%",
+    "uptime": "81.20%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -520,7 +520,8 @@
     "timeMonth": 0,
     "timeYear": 674,
     "dailyMinutesDown": {
-      "2025-04-07": 75,
+      "2025-04-08": 73,
+      "2025-04-07": 1440,
       "2025-04-06": 1440,
       "2025-04-05": 1440,
       "2025-04-04": 1440,
@@ -787,8 +788,7 @@
       "2024-07-17": 1440,
       "2024-07-16": 918,
       "2024-06-20": 225,
-      "2024-04-09": 561,
-      "2024-04-08": 1440
+      "2024-04-09": 561
     }
   },
   {
@@ -803,9 +803,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 794,
-    "timeDay": 1064,
-    "timeWeek": 793,
-    "timeMonth": 828,
+    "timeDay": 1067,
+    "timeWeek": 818,
+    "timeMonth": 840,
     "timeYear": 813,
     "dailyMinutesDown": {}
   }
