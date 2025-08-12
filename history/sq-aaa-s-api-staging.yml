@@ -1,7 +1,7 @@
 url: https://api-staging.sqaaas.eosc-synergy.eu/v1/ui
-status: down
-code: 503
-responseTime: 1789
-lastUpdated: 2025-08-12T20:10:10.199Z
+status: up
+code: 200
+responseTime: 1786
+lastUpdated: 2025-08-12T20:34:34.537Z
 startTime: 2021-01-11T15:46:53.000Z
 generator: Upptime <https://github.com/upptime/upptime>
