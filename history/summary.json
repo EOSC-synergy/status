@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 292,
-    "timeDay": 520,
-    "timeWeek": 340,
-    "timeMonth": 381,
-    "timeYear": 306,
+    "time": 293,
+    "timeDay": 467,
+    "timeWeek": 366,
+    "timeMonth": 380,
+    "timeYear": 307,
     "dailyMinutesDown": {}
   },
   {
@@ -28,11 +28,11 @@
     "uptimeWeek": "95.82%",
     "uptimeMonth": "98.12%",
     "uptimeYear": "98.96%",
-    "time": 2146,
-    "timeDay": 1819,
-    "timeWeek": 3927,
-    "timeMonth": 2353,
-    "timeYear": 2207,
+    "time": 2147,
+    "timeDay": 1698,
+    "timeWeek": 3930,
+    "timeMonth": 2350,
+    "timeYear": 2204,
     "dailyMinutesDown": {
       "2026-01-09": 256,
       "2026-01-06": 41,
@@ -95,10 +95,10 @@
     "uptimeMonth": "98.54%",
     "uptimeYear": "99.16%",
     "time": 1807,
-    "timeDay": 2051,
-    "timeWeek": 2042,
-    "timeMonth": 1647,
-    "timeYear": 1822,
+    "timeDay": 1628,
+    "timeWeek": 2020,
+    "timeMonth": 1654,
+    "timeYear": 1818,
     "dailyMinutesDown": {
       "2025-12-19": 559,
       "2025-12-18": 81,
@@ -144,7 +144,7 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1451,
+    "time": 1466,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
@@ -157,7 +157,7 @@
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
     "status": "down",
-    "uptime": "32.93%",
+    "uptime": "32.91%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -168,7 +168,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 101,
+      "2026-01-12": 88,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -531,8 +532,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -541,7 +541,7 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-infrastructure-manager",
     "status": "down",
-    "uptime": "68.73%",
+    "uptime": "68.70%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
@@ -552,7 +552,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-01-11": 101,
+      "2026-01-12": 88,
+      "2026-01-11": 1440,
       "2026-01-10": 1440,
       "2026-01-09": 1440,
       "2026-01-08": 1440,
@@ -915,8 +916,7 @@
       "2025-01-16": 1440,
       "2025-01-15": 1440,
       "2025-01-14": 1440,
-      "2025-01-13": 1440,
-      "2025-01-12": 1440
+      "2025-01-13": 1440
     }
   },
   {
@@ -931,10 +931,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.96%",
     "time": 824,
-    "timeDay": 909,
-    "timeWeek": 852,
-    "timeMonth": 841,
-    "timeYear": 830,
+    "timeDay": 674,
+    "timeWeek": 810,
+    "timeMonth": 842,
+    "timeYear": 829,
     "dailyMinutesDown": {
       "2025-11-11": 35,
       "2025-11-05": 21,
