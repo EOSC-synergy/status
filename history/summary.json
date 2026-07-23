@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 317,
-    "timeDay": 155,
-    "timeWeek": 278,
-    "timeMonth": 272,
+    "timeDay": 243,
+    "timeWeek": 280,
+    "timeMonth": 267,
     "timeYear": 347,
     "dailyMinutesDown": {}
   },
@@ -29,10 +29,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "98.97%",
     "time": 2018,
-    "timeDay": 1446,
-    "timeWeek": 1548,
-    "timeMonth": 1687,
-    "timeYear": 1930,
+    "timeDay": 1642,
+    "timeWeek": 1573,
+    "timeMonth": 1695,
+    "timeYear": 1929,
     "dailyMinutesDown": {
       "2025-07-29": 33,
       "2025-07-30": 20,
@@ -74,16 +74,16 @@
     "icon": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Swagger-logo.png",
     "slug": "sq-aaa-s-api-staging",
     "status": "down",
-    "uptime": "95.72%",
-    "uptimeDay": "98.95%",
-    "uptimeWeek": "99.85%",
-    "uptimeMonth": "99.97%",
-    "uptimeYear": "99.00%",
-    "time": 1660,
-    "timeDay": 733,
-    "timeWeek": 1499,
-    "timeMonth": 1701,
-    "timeYear": 1620,
+    "uptime": "95.69%",
+    "uptimeDay": "30.32%",
+    "uptimeWeek": "90.05%",
+    "uptimeMonth": "97.71%",
+    "uptimeYear": "98.81%",
+    "time": 1659,
+    "timeDay": 648,
+    "timeWeek": 1402,
+    "timeMonth": 1693,
+    "timeYear": 1618,
     "dailyMinutesDown": {
       "2025-08-09": 25,
       "2025-08-10": 27,
@@ -112,7 +112,8 @@
       "2026-02-23": 50,
       "2026-03-03": 33,
       "2026-03-13": 19,
-      "2026-07-22": 15
+      "2026-07-23": 146,
+      "2026-07-22": 858
     }
   },
   {
@@ -139,7 +140,7 @@
     "icon": "https://servproject.i3m.upv.es/ec3/img/ec3-small.png",
     "slug": "ec-3-portal-for-eosc-synergy",
     "status": "down",
-    "uptime": "29.77%",
+    "uptime": "29.76%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -150,7 +151,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 597,
+      "2026-07-23": 146,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -513,8 +515,7 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
-      "2025-07-23": 1440
+      "2025-07-24": 1440
     }
   },
   {
@@ -523,7 +524,7 @@
     "icon": "https://appsgrycap.i3m.upv.es:31443/im-dashboard/static/images/favicon_io/favicon-32x32.png",
     "slug": "im-infrastructure-manager",
     "status": "down",
-    "uptime": "62.13%",
+    "uptime": "62.11%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
@@ -534,7 +535,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-07-22": 597,
+      "2026-07-23": 146,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
@@ -897,8 +899,7 @@
       "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
-      "2025-07-24": 1440,
-      "2025-07-23": 1440
+      "2025-07-24": 1440
     }
   },
   {
@@ -907,11 +908,11 @@
     "icon": "https://www.openstack.org/themes/openstack/images/project-mascots/Swift/OpenStack_Project_Swift_vertical.jpg",
     "slug": "swift-openstack-incd",
     "status": "down",
-    "uptime": "90.14%",
+    "uptime": "90.10%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "54.57%",
+    "uptimeYear": "54.38%",
     "time": 823,
     "timeDay": 0,
     "timeWeek": 0,
@@ -920,7 +921,8 @@
     "dailyMinutesDown": {
       "2025-11-05": 21,
       "2025-11-11": 35,
-      "2026-07-22": 598,
+      "2026-07-23": 146,
+      "2026-07-22": 1440,
       "2026-07-21": 1440,
       "2026-07-20": 1440,
       "2026-07-19": 1440,
